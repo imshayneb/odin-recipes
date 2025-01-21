@@ -1,1 +1,1 @@
-# odin-recipes
+This current project will involve building a recipe website utilizing the HTML skills I've learned thus far. In this project I will be able to demonstrate my knowledge of basic HTML syntax and commands in order to produce a functioning website.# odin-recipes
